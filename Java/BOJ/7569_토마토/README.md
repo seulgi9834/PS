@@ -30,7 +30,7 @@ https://www.acmicpc.net/problem/7569
 
 
 ### 4. 문제 이해
-![KakaoTalk_20220225_105630559](C:\Users\seulgi\Desktop\KakaoTalk_20220225_105630559.gif)
+![KakaoTalk_20220225_105630559](https://user-images.githubusercontent.com/45118999/156195589-78c9e725-ab22-47cb-bb14-75e6fc483e2d.gif)
 
 ---
 
