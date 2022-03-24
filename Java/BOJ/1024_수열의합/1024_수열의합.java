@@ -1,23 +1,19 @@
-package day0323;
+
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_1024_수열의합 {
+public class Main {
 
-	static StringBuilder sb;
-	static int N, L;
-	static int[] arr;
+
 	static boolean chk;
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
-		sb = new StringBuilder();
-		N = Integer.parseInt(st.nextToken());
-		L = Integer.parseInt(st.nextToken());
-		arr = new int[N + 1];
+		int N = Integer.parseInt(st.nextToken());
+		int L = Integer.parseInt(st.nextToken());
 		chk = true;
 		String str = "";
 		while (L <= 100) {
